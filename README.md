@@ -1,4 +1,5 @@
 ![alt text](https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg)
+<img src="https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg" alt="html5" width="100%"/>
 
 ### 🙏 Hi, i'm Jurijs from Latvia. Welcome to my github page. I'm growing Full-stack developer. 🧙‍♂️ I enjoy to learn prorgamming and to create some interesting stuffs.
 
