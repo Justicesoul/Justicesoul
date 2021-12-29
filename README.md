@@ -1,3 +1,5 @@
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 1.6k)
+
 ### 🙏 Hi, i'm Jurijs from Latvia. Welcome to my github page. I'm growing Full-stack developer. 🧙‍♂️ I enjoy to learn prorgamming and to create some interesting stuffs.
 
 <h4 align="left">Languages and Tools:</h4>
@@ -6,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justicesoul&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="left">Projects:</h4>
-<a href="https://github.com/Justicesoul/AnimalFilter-ReactTS-Redux" target="blank" color="black">🦄 Animal Filter on React & Redux 🦕</a><br />
+<a href="https://github.com/Justicesoul/AnimalFilter-ReactTS-Redux" target="blank">🦄 Animal Filter on React & Redux 🦕</a><br />
 <a href="https://github.com/Justicesoul/RPSLS-Game-ReactTS">🎲 Rock, paper, scissors, lizard and spock on React 💎</a><br />
 <a href="https://github.com/Justicesoul/Store-project-on-Vuex">📦 Store project on Vue & Vuex ⚖</a><br />
 <a href="https://github.com/Justicesoul/Form-Validation-on-TS">📝 Form validation on TypeScript ✔</a><br />
