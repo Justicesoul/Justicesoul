@@ -1,4 +1,4 @@
-<img src="https://s3.envato.com/files/225385878/prev%20im.jpg" width="100%"/>
+<img src="https://www.wallpaperup.com/uploads/wallpapers/2013/03/01/46500/c39ffae55bef401552355b999b417767-700.jpg" width="100%"/>
 
 ### 🙏 Hi, i'm Jurijs from Latvia. Welcome to my github page. I'm growing Full-stack developer. 🧙‍♂️ I enjoy to learn prorgamming and to create some interesting stuffs.
 
