@@ -6,6 +6,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justicesoul&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="left">Projects:</h4>
+<a href="https://github.com/Justicesoul/AnimalFilter-ReactTS-Redux" target="blank">🦄 Animal Filter on React&Redux 🦕</a>
+<a href="https://github.com/Justicesoul/RPSLS-Game-ReactTS">🎲 Rock, paper, scissors, lizard and spock on React 💎</a>
+<a href="https://github.com/Justicesoul/Store-project-on-Vuex">📦 Store project on Vue & Vuex ⚖</a>
+<a href="https://github.com/Justicesoul/Form-Validation-on-TS">📝 Form validation on TypeScript ✔</a>
+<a href="https://github.com/Justicesoul/Form-Validation-on-TS">✨ Adaptive layout ✨</a>
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
