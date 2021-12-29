@@ -11,5 +11,5 @@
 <p align="left">
 <a href="https://codepen.io/justicesoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="justicesoul" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jurijs-belozjorovs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jurijs belozjorovs" height="30" width="40" /></a>
-  <a href="mailto:juriybtv@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png alt="jurijs belozjorovs" height="30" width="40" /></a>
+  <a href="mailto:juriybtv@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg alt="jurijs belozjorovs" height="30" width="40" /></a>
 </p>
