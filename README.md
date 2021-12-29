@@ -1,4 +1,4 @@
-<img src="https://smartcdn.prod.postmedia.digital/v1/dynamic_resize/sws_path/suns-prod-images/1297543863793_ORIGINAL.jpg?quality=90&size=366x&strip=all&w=400" width="100%"/>
+<img src="https://smartcdn.prod.postmedia.digital/v1/dynamic_resize/sws_path/suns-prod-images/1297543863793_ORIGINAL.jpg?quality=90&size=366x&strip=all&w=400" width="100%" height="400"/>
 
 ### 🙏 Hi, i'm Jurijs from Latvia. Welcome to my github page. I'm growing Full-stack developer. 🧙‍♂️ I enjoy to learn prorgamming and to create some interesting stuffs.
 
