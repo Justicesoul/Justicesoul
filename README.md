@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Flying-penguins.png" width="100%"/>
+<img src="https://libraries.indiana.edu/sites/default/files/p02bkwfq.jpg" width="100%"/>
 
 ### 🙏 Hi, i'm Jurijs from Latvia. Welcome to my github page. I'm growing Full-stack developer. 🧙‍♂️ I enjoy to learn prorgamming and to create some interesting stuffs.
 
