@@ -6,3 +6,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justicesoul&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="left">Projects:</h4>
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://codepen.io/justicesoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="justicesoul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jurijs-belozjorovs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jurijs belozjorovs" height="30" width="40" /></a>
+  <a href="mailto:juriybtv@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png alt="jurijs belozjorovs" height="30" width="40" /></a>
+</p>
