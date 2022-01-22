@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justicesoul&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Projects:</h3>
-<a href="https://github.com/Justicesoul/Forex-Live-Wall" target="blank"💵 Forex Live Wall on React 💶</a><br />
+<a href="https://github.com/Justicesoul/Forex-Live-Wall" target="blank">💵 Forex Live Wall on React 💶</a><br />
 <a href="https://github.com/Justicesoul/AnimalFilter-ReactTS-Redux" target="blank">🦄 Animal Filter on React & Redux 🦕</a><br />
 <a href="https://github.com/Justicesoul/RPSLS-Game-ReactTS">🎲 Rock, paper, scissors, lizard and spock on React 💎</a><br />
 <a href="https://github.com/Justicesoul/Store-project-on-Vuex">📦 Store project on Vue & Vuex ⚖</a><br />
